@@ -1,0 +1,15 @@
+## Interface: 16001
+## Title: Baquiano
+## Notes: Records the paths you walk and guides you along them to your destination.
+## Author: MaryJJ
+## Version: 0.1.0
+## SavedVariables: BaquianoDB
+
+Core.lua
+Graph.lua
+Recorder.lua
+Pathfinder.lua
+Nav.lua
+MapOverlay.lua
+Arrow.lua
+Commands.lua
