@@ -1,0 +1,8 @@
+<Bindings>
+	<Binding name="BAQUIANO_TOGGLE_PATHS" header="BAQUIANO" category="ADDONS">
+		Baquiano_TogglePaths()
+	</Binding>
+	<Binding name="BAQUIANO_CLEAR_ROUTE" category="ADDONS">
+		Baquiano_ClearRoute()
+	</Binding>
+</Bindings>

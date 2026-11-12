@@ -2,14 +2,28 @@
 ## Title: Baquiano
 ## Notes: Records the paths you walk and guides you along them to your destination.
 ## Author: MaryJJ
-## Version: 0.1.0
+## Version: 1.0.0
 ## SavedVariables: BaquianoDB
+## OptionalDeps: Carbonite, TomTom
 
 Core.lua
+FlightData.lua
+Flights.lua
+TransportData.lua
+Transports.lua
 Graph.lua
+PathView.lua
 Recorder.lua
 Pathfinder.lua
 Nav.lua
+Editor.lua
 MapOverlay.lua
+MinimapOverlay.lua
+CarboniteOverlay.lua
 Arrow.lua
+Odometer.lua
+Waypoints.lua
+StarterData.lua
+Share.lua
+Options.lua
 Commands.lua
